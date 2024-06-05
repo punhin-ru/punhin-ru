@@ -1,6 +1,6 @@
 - 👋 Hi, my name is ilya punhin
-- 👀 I’m interested in web fllstack development
-- 🌱 I’m currently learning html, css, js, php, sql
+- 👀 I’m interested in 3d-modelling in blender
+- 🌱 I’m currently learning it
 
 
 <!---
